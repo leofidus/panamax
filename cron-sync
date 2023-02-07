@@ -1,0 +1,2 @@
+# run sync at 6:00 am
+0 6 * * * /usr/local/bin/panamax sync /mirror 2>&1
